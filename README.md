@@ -5,5 +5,5 @@
 - In particular, I'm keen on the financial industry and the technology and infrastructure that are behind banking systems, exchanges, etc. Also, recently I've been getting 
   into DevOps and Distributed systems. <br>
 - Feel free to browse through the projects that I've worked on during high school and uni! Some of them are more polished than others <br>
-- You can contact me at mircea.burlacu@s.unibuc.ro . Also, you cand finde me on <a href="https://www.linkedin.com/in/mircea-burlacu-3a9aaa1ba/">LinkedIn</a>.
+- You can contact me at bmircea23@gmail.com . Also, you cand finde me on <a href="https://www.linkedin.com/in/mircea-burlacu-3a9aaa1ba/">LinkedIn</a>.
 
